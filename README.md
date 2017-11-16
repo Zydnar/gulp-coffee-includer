@@ -55,7 +55,7 @@ foo = ->
 
 ## Looking for CLI version?
 
-### See [*coffee-includer*](https://github.com/Zydnar/coffee-includer.git)
+### See [*coffee-includer*](https://github.com/Zydnar/coffee-includer)
 
 ## License
 
