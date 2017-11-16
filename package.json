@@ -1,0 +1,36 @@
+{
+  "name": "gulp-coffee-includer",
+  "version": "1.0.0",
+  "description": "Using gulp-coffee-includer you can finally include files with proper intendation.",
+  "main": "index.js",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://opensource.org/licenses/MIT"
+    }
+  ],
+  "keywords": [
+    "coffee",
+    "include",
+    "scope",
+    "intend",
+    "gulp",
+    "plugin",
+    "coffee-script",
+    "coffeescript",
+    "concat"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Zydnar/gulp-coffee-includer.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Zydnar/gulp-coffee-includer/issues"
+  },
+  "homepage": "https://github.com/Zydnar/gulp-coffee-includer#readme",
+  "author": "zydnar <shirkaen@gmail.com>",
+  "dependencies": {
+    "through2": "^2.0.3",
+    "coffee-includer": "^1.0.0"
+  }
+}
