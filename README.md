@@ -40,7 +40,7 @@ file.coffee
 
 ```coffeescript
 do awsome_things in coding unless
-  awsome_things isnt boring
+  awsome_things is boring
 ```
 
 output.coffee
@@ -50,7 +50,7 @@ foo = ->
   bar()
   #file.coffee contents is placed, where you need it!
   do awsome_things in coding unless
-    awsome_things isnt boring
+    awsome_things is boring
 ```
 
 ## Looking for CLI version?
