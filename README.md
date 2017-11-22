@@ -2,6 +2,10 @@
 
 *Using gulp-coffee-includer you can finally include files with proper intendation.*
 
+## Current support
+
+Node 6.0 - 9.0
+
 ## Installation
 
 ```bash
