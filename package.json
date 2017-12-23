@@ -1,6 +1,6 @@
 {
   "name": "gulp-coffee-includer",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Using gulp-coffee-includer you can finally include files with proper intendation.",
   "main": "index.js",
   "licenses": [
